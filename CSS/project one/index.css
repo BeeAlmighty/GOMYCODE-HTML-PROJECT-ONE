@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --color: #343155;
+  --color2: #fffcf2;
+  --color3: #383b43;
+  --color4: #151925;
+}
+hr {
+  color: rgb(188, 186, 186);
+}
